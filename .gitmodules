@@ -1,3 +1,6 @@
 [submodule "clerk-frontend-next"]
 	path = clerk-frontend-next
 	url = https://github.com/prvnlhr/clerk-frontend-next.git
+[submodule "clerk-backend-node"]
+	path = clerk-backend-node
+	url = https://github.com/prvnlhr/clerk-backend-node.git
